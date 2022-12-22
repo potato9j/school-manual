@@ -515,3 +515,4 @@ ex)) 성적확인, 강의평가 등
 Made by 감자소년
 Powered by Markdown(Visual Studio)
 ```
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpotato9j%2Fschool-manual&count_bg=%233EB82C&title_bg=%23555555&icon=googlesheets.svg&icon_color=%23F9F9F9&title=school+manual&edge_flat=false)](https://hits.seeyoufarm.com)
