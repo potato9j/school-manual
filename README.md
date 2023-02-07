@@ -1,4 +1,4 @@
-# 학교 사용설명서 
+# 학교 사용설명서 (23학년도 교과과정 공지 반영완료)
 ### **정보업데이트일 : 23/02/07**
 
 <br>
@@ -446,6 +446,12 @@ ex)) 성적확인, 강의평가 등
 ### **23/02/07/수정완료 : <span style="color:#FF1493">재학생&신입생 이수교과구분이 일부 변경되었습니다.**</span>
 
 <br>
+
+- **[2023학년도 1학기 수강신청 안내](https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1.html?action=read&nttId=16322046&pageIndex=1)**
+- **[2023학년도 교양교과과정 안내](https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1.html?action=read&nttId=16322040&pageIndex=1)**
+
+
+<br><br>
 
 - <span style="color:#FF1493">**23/02/07/수정 : 23학번&재학생 이수교과구분 공지가 올라왔습니다.**</span>
 - 우리 학교는 **필수교양**이 있습니다. 
